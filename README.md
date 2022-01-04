@@ -52,3 +52,7 @@ MSE: 810.4005223951565
 MAE: 19.275154617479664
 
 RMSE: 28.467534533133644
+
+
+Conculsion:I used too many different algorithms for model development but out of all of them RandomForest performed way better then other algorithms
+
